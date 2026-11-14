@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pasha and Arina//Wedding Invitation//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:pasha-arina-20270717@pasha-arina-july-2027.ppg-1111.chatgpt.site
+DTSTAMP:20261111T190000Z
+DTSTART:20270717T150000Z
+SUMMARY:Свадьба Павла и Арины
+LOCATION:Ресторан Botanica\, Ставрополь\, ул. Лен
+ ина\, 484
+DESCRIPTION:Будем рады разделить наш день с в
+ ами!\n17 июля 2027 года\, начало в 18:00 (Москва
+ ).\nРесторан Botanica\, Ставрополь\, ул. Ленин
+ а\, 484.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
