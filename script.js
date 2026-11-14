@@ -32,6 +32,6 @@
     dialog.querySelector('button').addEventListener('click', () => dialog.close());
     dialog.addEventListener('click', event => { if (event.target === dialog) dialog.close(); });
   } else {
-    openButton.addEventListener('click', () => window.open('assets/pavel-arina-color.jpg', '_blank', 'noopener'));
+    openButton.addEventListener('click', () => window.open('/assets/pavel-arina-color.jpg', '_blank', 'noopener'));
   }
 })();
